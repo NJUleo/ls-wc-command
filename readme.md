@@ -11,7 +11,11 @@ use a long listing format
 包括：
 
 1. 文件权限，以如`-rwxrwxr-x`的格式打印。分别代表文件类型、三类用户的读写执行权限。
-2. 
+2. owner
+2. group
+3. modify time
+4. file name
+5. file size(byte)
 
 #### -a
 
